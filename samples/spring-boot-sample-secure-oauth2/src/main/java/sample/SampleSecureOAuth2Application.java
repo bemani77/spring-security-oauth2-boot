@@ -108,4 +108,8 @@ public class SampleSecureOAuth2Application {
 		SpringApplication.run(SampleSecureOAuth2Application.class, args);
 	}
 
+	private void sample() {
+		System.out.println("test.....");
+	}
+
 }
